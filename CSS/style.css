@@ -1,6 +1,54 @@
-.homepageButton {
-    align-content: flex-end;
-    justify-content: flex-end;
+h1, h2, h3, h4, h5 {
+    font-family: roca, sans-serif;
+}
+p {
+    font-family: monserratt, sans-serif;
+}
+.colorNav {
+    background-color: #D08F70;
+}
+a {
+    color: black;
+}
+.title {
+    background-color: #FBE7C8;
+}
+.img {
+    height: 300px;
+    align-items: end;
+}
+.overviewDescription {
+    text-align: center;
+    margin-left: 400px;
+}
+.card {
+    background-color: #D08F70;
+}
+.sectionTitle {
+    text-align: center;
+    background-color: #D08F70;
+    margin-top: 10px;
+}
+.researchContainer {
     margin: 2%;
+}
+.problemTitle {
+    text-align: center;
+    background-color: #FBE7C8;
+    margin-top: 10px;
+}
+.homepageButton {
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    margin: 2%;
+}
+.homeButton {
+    background-color: #D08F70;
+}
+.protoImg {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
 }
